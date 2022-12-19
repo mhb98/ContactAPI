@@ -828,11 +828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SECL\\Desktop\\.NET\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
+      "projectUniqueName": "C:\\Users\\SECL\\Desktop\\.NET\\git\\ContactAPI\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
       "projectName": "ContactsAPI",
-      "projectPath": "C:\\Users\\SECL\\Desktop\\.NET\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
+      "projectPath": "C:\\Users\\SECL\\Desktop\\.NET\\git\\ContactAPI\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
       "packagesPath": "C:\\Users\\SECL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SECL\\Desktop\\.NET\\ContactsAPI\\ContactsAPI\\obj\\",
+      "outputPath": "C:\\Users\\SECL\\Desktop\\.NET\\git\\ContactAPI\\ContactsAPI\\ContactsAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SECL\\AppData\\Roaming\\NuGet\\NuGet.Config",

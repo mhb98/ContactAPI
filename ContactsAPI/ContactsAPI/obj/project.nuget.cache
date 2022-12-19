@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0689G4nzFCBTMOKo5yci14UIkvXdyEnVnsvEdPIjbmh83DrC1wKWnlJVW3xnzaCTbFrIUeC4YrIkPJ6mlIrr+g==",
+  "dgSpecHash": "UD6sfBEO5xP72CvrtQ/CxrLZ9TW28/+CT922l9ICEg/N8rnwZvNco+2Yj1NrbeQ/OjqYdcSQC9pbhER6SLvehw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SECL\\Desktop\\.NET\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
+  "projectFilePath": "C:\\Users\\SECL\\Desktop\\.NET\\git\\ContactAPI\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SECL\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.11\\microsoft.entityframeworkcore.6.0.11.nupkg.sha512",
     "C:\\Users\\SECL\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.11\\microsoft.entityframeworkcore.abstractions.6.0.11.nupkg.sha512",
